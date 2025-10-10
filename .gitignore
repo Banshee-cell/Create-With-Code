@@ -13,7 +13,10 @@
 *.log
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /Prototype 1/Library/
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 /Prototype 2/Library/
