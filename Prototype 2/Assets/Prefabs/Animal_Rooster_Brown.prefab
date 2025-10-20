@@ -171,6 +171,7 @@ GameObject:
   - component: {fileID: 7103658890366446335}
   - component: {fileID: 7542056211411058462}
   - component: {fileID: 7300954128050371807}
+  - component: {fileID: 3180759389504715737}
   m_Layer: 0
   m_Name: Animal_Rooster_Brown
   m_TagString: Untagged
@@ -186,7 +187,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 839081761998429708}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -1, z: -0, w: 0.0000029504295}
+  m_LocalRotation: {x: 0, y: -1, z: 0, w: 0}
   m_LocalPosition: {x: 12.4061365, y: 0, z: 20.372253}
   m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_ConstrainProportionsScale: 0
@@ -248,6 +249,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dcaea6c3e9f76e044b566066f7b96005, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!65 &3180759389504715737
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 839081761998429708}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 10.511322, y: 17.70443, z: 23.287697}
+  m_Center: {x: 0.0793463, y: 8.352212, z: -1.0193896}
 --- !u!1 &1240574613401072433
 GameObject:
   m_ObjectHideFlags: 0
