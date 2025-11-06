@@ -151,7 +151,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 24
+  controlID: 48
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -399,8 +399,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets
+    m_Folders: []
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -419,7 +418,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 00a80000
     m_LastClickedID: 43008
-    m_ExpandedIDs: 000000000ea90000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -448,7 +447,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000000ea90000
+    m_ExpandedIDs: ffffffff0000000028e400002ee70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1186,9 +1185,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 5.825976, y: 1.953968, z: -9.47318}
+    m_Target: {x: -10.952708, y: -4.09504, z: 31.340387}
     speed: 2
-    m_Value: {x: 5.825976, y: 1.953968, z: -9.47318}
+    m_Value: {x: -10.952708, y: -4.09504, z: 31.340387}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1234,20 +1233,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.09227436, y: 0.72299826, z: -0.098409176, w: -0.67761844}
+    m_Target: {x: 0.13897383, y: 0.5398801, z: -0.090871565, w: 0.82526577}
     speed: 2
-    m_Value: {x: -0.09256491, y: 0.7209289, z: -0.098127395, w: -0.67975307}
+    m_Value: {x: 0.13772859, y: 0.5399873, z: -0.09005677, w: 0.82542974}
   m_Size:
-    m_Target: 3.8679826
+    m_Target: 9.55
     speed: 2
-    m_Value: 3.8679826
+    m_Value: 10
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.4228996
-    m_SpeedNormalized: 0.7099998
+    m_Speed: 1.3631997
+    m_SpeedNormalized: 0.6799998
     m_SpeedMin: 0.01
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -1313,9 +1312,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 4c670000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 10f9ffff
+      m_ExpandedIDs: c21affff6c54ffff3255ffff3056ffff0c5cffff5ee6000092e6000026e70000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
