@@ -371,7 +371,7 @@ MonoBehaviour:
   - {fileID: 9053101521846752805, guid: faac5903cec45bd4ba72bb0b7ca938f8, type: 3}
   scoreText: {fileID: 2147073824}
   gameOverText: {fileID: 41494704}
-  isGameActive: 0
+  isGameActive: 1
 --- !u!4 &337154061
 Transform:
   m_ObjectHideFlags: 0
